@@ -34,6 +34,45 @@ public class UserDaoImpl implements UserDao {
         queryRunner.update(sql, param);
     }
 
+
+
+        public void test2(){
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+    }
+
+
+
+
+
+
     @Override
     public void addUser2(User user) throws SQLException {
 
