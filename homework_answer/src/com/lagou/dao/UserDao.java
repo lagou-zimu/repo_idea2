@@ -15,6 +15,21 @@ public interface UserDao {
         用户添加
      */
     public void addUser(User user) throws SQLException;
+    
+        /*
+        用户添加
+     */
+    public void addUser2(User user) throws SQLException;
+    
+        /*
+        用户添加
+     */
+    public void addUser3(User user) throws SQLException;
+    
+        /*
+        用户添加
+     */
+    public void addUser4(User user) throws SQLException;
 
 
 
