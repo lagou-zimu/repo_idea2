@@ -33,4 +33,116 @@ public class UserDaoImpl implements UserDao {
         Object[] param = {null,user.getName(),user.getPassword(),user.getBirthday(),user.getSex()};
         queryRunner.update(sql, param);
     }
+
+    @Override
+    public void addUser2(User user) throws SQLException {
+
+    }
+
+    @Override
+    public void addUser3(User user) throws SQLException {
+
+    }
+
+    @Override
+    public void addUser4(User user) throws SQLException {
+
+    }
+    @Override
+    public void aa(User user) throws SQLException {
+
+    }
+    @Override
+    public void bb(User user) throws SQLException {
+
+    }
+    @Override
+    public void cc(User user) throws SQLException {
+
+    }
+    @Override
+    public void dd(User user) throws SQLException {
+
+    }
+    @Override
+    public void ee(User user) throws SQLException {
+
+    }
+    @Override
+    public void gg(User user) throws SQLException {
+
+    }
+    @Override
+    public void addUser7(User user) throws SQLException {
+
+    }
+    @Override
+    public void addUser8(User user) throws SQLException {
+
+    }
+    @Override
+    public void addUser9(User user) throws SQLException {
+
+    }
+    @Override
+    public void test1(User user) throws SQLException {
+
+    }
+    @Override
+    public void test2(User user) throws SQLException {
+
+    }
+    @Override
+    public void test3(User user) throws SQLException {
+
+    }
+    @Override
+    public void test4(User user) throws SQLException {
+
+    }
+    @Override
+    public void test5(User user) throws SQLException {
+
+    }
+    @Override
+    public void test6(User user) throws SQLException {
+
+    }
+
+    public void addUser2(){
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+    }
+
+
+
+
+
 }
