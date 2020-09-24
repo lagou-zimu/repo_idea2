@@ -33,4 +33,43 @@ public class UserDaoImpl implements UserDao {
         Object[] param = {null,user.getName(),user.getPassword(),user.getBirthday(),user.getSex()};
         queryRunner.update(sql, param);
     }
+    
+    
+    
+        public void test2(){
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+        System.out.println(22);
+    }
+    
+    
+    
+    
+    
 }
