@@ -1,4 +1,10 @@
 package com.lagou.dao;
 
-public interface GitMapper {
+public class GitMapper {
+
+    public void test1(){
+
+        System.out.println(1111);
+    }
+
 }
